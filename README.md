@@ -13,7 +13,7 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useBeforeLeave
 - [x] useFadeIn
 - [x] useNetwork
-- [ ] useFullscreen
+- [x] useFullscreen
+- [x] useScroll
 - [ ] useNotification
-- [ ] useScroll
 - [ ] useAxios
