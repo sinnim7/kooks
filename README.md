@@ -17,3 +17,11 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useScroll
 - [x] useNotification
 - [x] useAxios
+
+# Publishing to NPM
+
+[useTitle]
+
+> npm i @kooks2/use-title
+
+> https://www.npmjs.com/package/@kooks2/use-title
