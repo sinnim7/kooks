@@ -1,0 +1,25 @@
+{
+  "name": "@kooks2/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinnim7/kooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "sinnim7 <sinnim7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinnim7/kooks/issues"
+  },
+  "homepage": "https://github.com/sinnim7/kooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
